@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 10px;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+body{
+	background: #BA6767;
+	text-align: center;
+	color:#DFB0B0;
+}
+  span{
+  	text-align: center;
+    color: #EA61CF;
+  }
+  a{
+  	text-align: center;
+  }
+  video{
+  	text-align: center;
+  	box-shadow: 15px 10px 20px #ED0E0E;
+  	width: 80%;
+  }
+  font-family: 'Anton', sans-serif;
